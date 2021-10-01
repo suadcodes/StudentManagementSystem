@@ -1,2 +1,2 @@
 # StudentManagementSystem
-Student Management System built with Java 
+Simple Student Management System built with Java 
